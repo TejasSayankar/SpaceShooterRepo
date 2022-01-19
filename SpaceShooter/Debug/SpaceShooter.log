@@ -1,0 +1,11 @@
+﻿  Player.cpp
+D:\Visual Studio\SpaceShooter\SpaceShooter\Player.cpp(26,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SpaceShooter.vcxproj -> D:\Visual Studio\SpaceShooter\Debug\SpaceShooter.exe
